@@ -1,0 +1,10 @@
+c:\users\crono\documents\visual studio 2010\Projects\SimudecConsole\SimudecConsole\bin\Debug\SimudecConsole.exe
+c:\users\crono\documents\visual studio 2010\Projects\SimudecConsole\SimudecConsole\bin\Debug\SimudecConsole.pdb
+c:\users\crono\documents\visual studio 2010\Projects\SimudecConsole\SimudecConsole\obj\x86\Debug\SimudecConsole.exe
+c:\users\crono\documents\visual studio 2010\Projects\SimudecConsole\SimudecConsole\obj\x86\Debug\SimudecConsole.pdb
+C:\Users\Crono\documents\visual studio 2010\Projects\SimudecConsole\SimudecConsole\obj\x86\Debug\SimudecConsole.csprojResolveAssemblyReference.cache
+C:\Users\Pacheco\Documents\Dropbox\Projetos FUMEC\Extensão\SimudecConsole\SimudecConsole\obj\x86\Debug\SimudecConsole.exe
+C:\Users\Pacheco\Documents\Dropbox\Projetos FUMEC\Extensão\SimudecConsole\SimudecConsole\obj\x86\Debug\SimudecConsole.pdb
+C:\Users\Pacheco\Documents\Dropbox\Projetos FUMEC\Extensão\SimudecConsole\SimudecConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pacheco\Documents\Dropbox\Projetos FUMEC\Extensão\SimudecConsole\SimudecConsole\bin\Debug\SimudecConsole.exe
+C:\Users\Pacheco\Documents\Dropbox\Projetos FUMEC\Extensão\SimudecConsole\SimudecConsole\bin\Debug\SimudecConsole.pdb
